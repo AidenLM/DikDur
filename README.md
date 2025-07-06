@@ -22,6 +22,9 @@
 [ClickUp Project Management Link](https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview)  
 
 # **ABOUT PROJECT:**  
+<details>
+  <summary><b>ABOUT PROJECT (click to expand)</b></summary>
+
 **DikDur** is an AI-powered, socially interactive, and data-driven corporate physiotherapy platform designed to improve employee health, reduce posture disorders, and enhance team motivation.  
 
 ### **Key Objectives:**  
@@ -73,7 +76,8 @@
 - **Corporate Memberships:**  
   - Special agreements with fitness centers  
 
----
+</details>
+
 
 # **TARGET AUDIENCE:**  
 1. **Corporate Companies (HR & Wellness Departments)**  
