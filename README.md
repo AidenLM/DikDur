@@ -138,4 +138,4 @@ Our first sprint successfully achieved its interim goals, and the project starte
 - Future sprints will follow the same **5 key sub-goals per sprint**.  
 
 ## **PROBLEMS & OBSTACLES:**  
-- A **late start** initially put us behind, but strong team dynamics helped compensate for it.  
+- A **late start** initially put us behind, but strong team dynamics helped compensate for it.
