@@ -16,8 +16,9 @@
 
 
 <H2>PRODUCT BACKLOGS:</H2>
-<P><A HREF="https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview">DİKDUR CLİCK UP</A></P>
+<P><A HREF="https://https://app.clickup.com/90151335937/v/s/90155373300">DİKDUR CLİCK UP</A></P>
 
+https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview
 
 <details>
   <summary><h2>ABOUT PROJECT</h2></summary>
