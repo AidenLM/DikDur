@@ -105,8 +105,9 @@
 
 ---
 
-# **SPRINT 1**  
-
+<details>
+  <summary><h1>Sprint 1</h1></summary>
+  
 ## **SPRINT SCORING:**  
 At the beginning of the sprint, we set a total score of **10 points** for the team, divided as follows:  
 - **Team Dynamics Established** – 2 points  
@@ -139,3 +140,5 @@ Our first sprint successfully achieved its interim goals, and the project starte
 
 ## **PROBLEMS & OBSTACLES:**  
 - A **late start** initially put us behind, but strong team dynamics helped compensate for it.
+
+</details>
