@@ -13,12 +13,8 @@
 | <a href="https://github.com/Ulwus" style="text-decoration:none; color:blue;">Sıla Çetinkaya </a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/s%C4%B1la-%C3%A7etinkaya-5648a1225/) |
 
 
-
-
 <H2>PRODUCT BACKLOGS:</H2>
-<P><A HREF="https://https://app.clickup.com/90151335937/v/s/90155373300">DİKDUR CLİCK UP</A></P>
-
-https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview
+<P><A HREF="https://app.clickup.com/90151335937/v/s/90155373300">DİKDUR CLİCK UP</A></P>
 
 <details>
   <summary><h2>ABOUT PROJECT</h2></summary>
