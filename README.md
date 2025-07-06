@@ -23,7 +23,7 @@
 
 # **ABOUT PROJECT:**  
 <details>
-  <summary><b>ABOUT PROJECT (click to expand)</b></summary>
+  <summary><h2>ABOUT PROJECT</h2></summary>
 
 **DikDur** is an AI-powered, socially interactive, and data-driven corporate physiotherapy platform designed to improve employee health, reduce posture disorders, and enhance team motivation.  
 
@@ -78,10 +78,8 @@
 
 </details>
 
-
-# **TARGET AUDIENCE:**  
 <details>
-  <summary><b>TARGET AUDIENCE (click to expand)</b></summary>
+  <summary><h2>TARGET AUDIENCE</h2></summary>
 
 1. **Corporate Companies (HR & Wellness Departments)**  
    - Medium and large-scale enterprises  
