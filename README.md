@@ -16,7 +16,7 @@
 - **DİKDUR**  
 
 # **PROJECT LOGO:**  
-![Project Logo](IMG)  
+![DikDur Logo](https://github.com/AidenLM/DikDur/raw/main/dikdurlogo.png)
 
 # **PRODUCT BACKLOGS:**  
 [ClickUp Project Management Link](https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview)  
