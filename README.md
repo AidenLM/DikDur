@@ -80,6 +80,9 @@
 
 
 # **TARGET AUDIENCE:**  
+<details>
+  <summary><b>TARGET AUDIENCE (click to expand)</b></summary>
+
 1. **Corporate Companies (HR & Wellness Departments)**  
    - Medium and large-scale enterprises  
    - Especially companies with desk-bound employees  
@@ -92,6 +95,9 @@
    - Collaborative fitness partners  
 5. **Insurance Companies**  
    - Integration with corporate health packages  
+
+</details>
+
 
 ---
 
