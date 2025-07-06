@@ -1,12 +1,16 @@
 # **TEAM NAME:**  
 - **BOOTCAMP101**  
 
-# **TEAM MEMBERS:**  
-- **Zozan** – Product Owner  
-- **Mehmet Akif** – Scrum Master  
-- **Alper** – Developer  
-- **Yasin** – Developer  
-- **Sıla** – Developer  
+# **TEAM MEMBERS:**
+
+| Name            | Role           |
+|-----------------|----------------|
+| Zozan Akdoğan   | Product Owner  |
+| Mehmet Akif Elem| Scrum Master   |
+| Alper Fidan     | Developer      |
+| Yasin Karaçam   | Developer      |
+| Sıla Çetinkaya  | Developer      |
+
 
 # **PROJECT NAME:**  
 - **DİKDUR**  
