@@ -4,14 +4,13 @@
 - **BOOTCAMP101**  
 
 # **TEAM MEMBERS:**
-
-| Name            | Role           |
-|-----------------|----------------|
-| Zozan Akdoğan   | Product Owner  |
-| Mehmet Akif Elem| Scrum Master   |
-| Alper Fidan     | Developer      |
-| Yasin Karaçam   | Developer      |
-| Sıla Çetinkaya  | Developer      |
+| Name | Title | Social |
+|:-------:| :-----:| :--------:|
+| <a href="https://github.com/melisalparslan" style="text-decoration:none; color:blue;">Mehmet Akif Elem</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/makifelem/) |
+| <a href="https://github.com/olgnbrn" style="text-decoration:none; color:blue;">Zozan Akdoğan </a> | Product Owner | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/zozanakdogan/) |
+| <a href="https://github.com/Ulwus" style="text-decoration:none; color:blue;">Alper Fidan</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/alper-fidan/) |
+| <a href="https://github.com/Ulwus" style="text-decoration:none; color:blue;">Yasin Karaçam </a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/yasin-karacamm/) |
+| <a href="https://github.com/Ulwus" style="text-decoration:none; color:blue;">Sıla Çetinkaya </a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/s%C4%B1la-%C3%A7etinkaya-5648a1225/) |
 
 
 
@@ -98,7 +97,7 @@
 ---
 
 <details>
-  <summary><h3>Team Menagment(Click Up Photo)</h3></summary>
+  <summary><h2>Team Managment(Click Up Photo)</h2></summary>
   <img src="Photos/dutys.png" width="700" height="700" alt="Team Name Logo"/> 
 </details>
   
