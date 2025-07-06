@@ -1,3 +1,5 @@
+![DikDur Logo](https://github.com/AidenLM/DikDur/raw/main/Logo.png)
+
 # **TEAM NAME:**  
 - **BOOTCAMP101**  
 
@@ -12,16 +14,12 @@
 | Sıla Çetinkaya  | Developer      |
 
 
-# **PROJECT NAME:**  
-- **DİKDUR**  
 
-# **PROJECT LOGO:**  
-![DikDur Logo](https://github.com/AidenLM/DikDur/raw/main/Logo.png)
+<details>
+  <summary><h2>ABOUT PROJECT</h2></summary>
+[ClickUp Project Management Link](https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview) 
+</details>
 
-# **PRODUCT BACKLOGS:**  
-[ClickUp Project Management Link](https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview)  
-
-# **ABOUT PROJECT:**  
 <details>
   <summary><h2>ABOUT PROJECT</h2></summary>
 
