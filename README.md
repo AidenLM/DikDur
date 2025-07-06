@@ -1,4 +1,4 @@
-![DikDur Logo](https://github.com/AidenLM/DikDur/raw/main/Logo.png)
+<img src="Logo.png" width="700" height="700" alt="Team Name Logo"/> 
 
 # **TEAM NAME:**  
 - **BOOTCAMP101**  
@@ -15,10 +15,10 @@
 
 
 
-<details>
-  <summary><h2>ABOUT PROJECT</h2></summary>
-[ClickUp Project Management Link](https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview) 
-</details>
+
+<H2>PRODUCT BACKLOGS:</H2>
+<P><A HREF="https://app.clickup.com/90151335937/teams-pulse/teams/87c62019-1743-4061-b463-7428f01685da/overview">DİKDUR CLİCK UP</A></P>
+
 
 <details>
   <summary><h2>ABOUT PROJECT</h2></summary>
@@ -97,7 +97,11 @@
 
 ---
 
-  img
+<details>
+  <summary><h3>Team Menagment(Click Up Photo)</h3></summary>
+  <img src="Photos/dutys.png" width="700" height="700" alt="Team Name Logo"/> 
+</details>
+  
 
 ---
 
@@ -124,7 +128,7 @@ After an initial live evaluation, we scheduled meetings based on team availabili
 - All team members participated in every step (no sub-teams).  
 - Decisions were made democratically through voting.  
 
-![Voting Process](IMG)  
+<img src="Photos/ProductIdeas.png" width="400" height="400" alt="Team Name Logo"/> 
 
 ## **SPRINT REVIEW:**  
 Our first sprint successfully achieved its interim goals, and the project started smoothly. Healthy communication was maintained during discussions, which is crucial for teamwork.  
