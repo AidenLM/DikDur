@@ -114,11 +114,29 @@ At the beginning of the sprint, we set a total score of **10 points** for the te
 
 **Goal Achieved – Full 10 Points Earned!**  
 
+## **SPRINT NOTES:**
+- Active communication was maintained throughout Sprint 1.
+- Task assignments and tracking were managed via ClickUp.
+- The project name, target audience, and core features were defined.
+- Team logo was created and visuals for presentations were prepared.
+- Initial idea phase was completed, and wireframe designs were initiated.
+- Tasks were equally distributed following Scrum methodology.
+- Progress was tracked through daily meetings.
+- Full score was achieved by reaching all sprint goals.
+<img src="Photos/dutys.png" width="700" height="700" alt="Team Name Logo"/> 
+
+
 ## **DAILY MEETINGS:**  
 After an initial live evaluation, we scheduled meetings based on team availability (considering university schedules and exams).  
 - **Frequency:** At least twice a week → Later shifted to daily check-ins  
 - **Time:** Every other day, 10 AM–12 PM  
-- **Platforms:** Google Meets & WhatsApp  
+- **Platforms:** Google Meets & WhatsApp
+<img src="Photos/WhatsappImage.png" width="300" height="300" alt="Whatsapp Chat"/>
+<img src="Photos/WhatsappImage2.png" width="300" height="300" alt="Whatsapp Chat"/>
+<img src="Photos/TeamMeet3.png" width="300" height="300" alt="Whatsapp Chat"/>
+
+## **PRODUCT STATUS:**  
+The product is currently in the idea and design phase. Initial screen drafts for the user panel, health scores, and interactive features have been discussed within the team and design work has begun. In the upcoming sprints, the aim is to prepare the first prototypes.
 
 ## **DEVELOPMENT PROCESS:**  
 - All team members participated in every step (no sub-teams).  
