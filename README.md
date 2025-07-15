@@ -156,3 +156,78 @@ Our first sprint successfully achieved its interim goals, and the project starte
 - A **late start** initially put us behind, but strong team dynamics helped compensate for it.
 
 </details>
+
+<details>
+  <summary><h1>Sprint 2</h1></summary>
+
+### ✅ **APP SCREENSHOTS**  
+Initial screens of the DikDur platform have been designed and partially implemented. Below are key interfaces:  
+- **Login & Registration Pages**  
+- **HR Dashboard** with posture analytics  
+- **Gamification Panel** for challenges and rewards  
+- **Virtual Appointment Interface** for physiotherapy sessions  
+
+<img src="Photos/appscreen1.png" width="400" height="400" alt="App Screenshot"/>
+<img src="Photos/appscreen2.png" width="400" height="400" alt="App Screenshot"/>
+<img src="Photos/appscreen3.png" width="400" height="400" alt="App Screenshot"/>
+
+---
+
+### 🗂 **PROJECT MANAGEMENT**  
+All Sprint 2 tasks were assigned, tracked, and reviewed via ClickUp.  
+- Feature implementations were divided into smaller tasks  
+- Progress was monitored through the ClickUp board  
+- Milestones were set for UI/UX and development separately  
+
+<img src="Photos/projectmanagement2.png" width="700" alt="Project Management Board"/>
+
+---
+
+### 📉 **BURNDOWN CHART**  
+We maintained a burndown chart to track sprint velocity and ensure on-time delivery of features.  
+- Initial backlog estimation: **25 Story Points**  
+- Final delivery: **22 Story Points Completed**  
+
+<img src="Photos/burndownchart.png" width="600" alt="Burndown Chart"/>
+
+---
+
+### 💬 **WHATSAPP CHAT UPDATES**  
+Daily coordination and updates were managed on WhatsApp:  
+- Task follow-ups  
+- UI design reviews  
+- Urgent issue resolutions  
+
+<img src="Photos/WhatsappImageSprint2_1.png" width="300" height="300" alt="WhatsApp Sprint 2"/>
+<img src="Photos/WhatsappImageSprint2_2.png" width="300" height="300" alt="WhatsApp Sprint 2"/>
+
+---
+
+### 🎥 **MEETING RECORDINGS & SCREENSHOTS**  
+Meetings were held regularly to review progress and assign tasks:  
+- Sprint Planning & Mid-Sprint Review  
+- UI/UX walkthroughs  
+- Code merge and functionality discussion  
+
+<img src="Photos/TeamMeetSprint2_1.png" width="300" height="300" alt="Meeting Screenshot"/>
+<img src="Photos/TeamMeetSprint2_2.png" width="300" height="300" alt="Meeting Screenshot"/>
+
+---
+
+### 🔄 **SPRINT REVIEW & RETROSPECTIVE**  
+**Achievements:**  
+- Core screens were implemented and tested  
+- First click-through prototype was presented  
+- Improved sprint planning based on learnings from Sprint 1  
+
+**Challenges:**  
+- Synchronizing design and development timelines  
+- Minor delays due to overlapping school exams  
+
+**Next Steps:**  
+- Backend connection for user and HR modules  
+- Full implementation of gamification logic  
+- Preparing for user testing in Sprint 3  
+
+</details>
+
