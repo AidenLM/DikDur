@@ -189,11 +189,31 @@ All Sprint 2 tasks were assigned, tracked, and reviewed via ClickUp.
 ---
 
 ### 📉 **BURNDOWN CHART**  
-We maintained a burndown chart to track sprint velocity and ensure on-time delivery of features.  
-- Initial backlog estimation: **25 Story Points**  
-- Final delivery: **22 Story Points Completed**  
 
-<img src="Photos/burndownchart.png" width="600" alt="Burndown Chart"/>
+## 🏃 Sprint 2 Task Table
+
+| Task                                                                 | Priority       | Points | Status   |
+|----------------------------------------------------------------------|----------------|--------|----------|
+| Decide color palette                                                 | 🔴 High        | 5      | ✅ Done   |
+| Assign pair programming duties                                       | 🔴 High        | 10     | ✅ Done   |
+| Daily Scrum scoring & burnout tracking                               | 🔴 High        | 10     | ✅ Done   |
+| Daily WhatsApp chats added regularly to GitHub                       | 🔴 High        | 10     | ✅ Done   |
+| Write meeting summaries                                              | 🔴 High        | 10     | ✅ Done   |
+| Write and edit README file                                           | 🔴 High        | 10     | ✅ Done   |
+| Design Figma layout                                                  | 🔴 High        | 20     | ✅ Done   |
+| Set up login and authentication after draft website is ready         | 🟠 Medium      | 30     | ✅ Done   |
+| Start working on selected technology                                 | 🟠 Medium      | 20     | ✅ Done   |
+| Define website concept                                               | 🟢 Low         | 15     | ✅ Done   |
+| Decide which technology to use                                       | 🟢 Low         | 10     | ✅ Done   |
+
+**✅ Total Points: 150 — All tasks completed!**
+We maintained a burndown chart to track sprint velocity and ensure on-time delivery of features.
+
+Initial backlog estimation: 150 Story Points
+
+Final delivery: 150 Story Points Completed
+
+
 
 ---
 
@@ -208,7 +228,7 @@ Daily coordination and updates were managed on WhatsApp:
 
 ---
 
-### 🎥 **MEETING RECORDINGS & SCREENSHOTS**  
+### 🎥 **MEETING SCREENSHOTS**  
 Meetings were held regularly to review progress and assign tasks:  
 - Sprint Planning & Mid-Sprint Review  
 - UI/UX walkthroughs  
