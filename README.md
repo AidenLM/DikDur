@@ -214,7 +214,8 @@ Initial backlog estimation: 150 Story Points
 Final delivery: 150 Story Points Completed
 
 ## 🏃 Sprint 2 Burndown Chart 
-<img src="./images/sprint2.png" alt="Sprint 2 Burndown Chart" width="600" />
+![Sprint 2 Burndown Chart](https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2.png)
+
 
 
 
