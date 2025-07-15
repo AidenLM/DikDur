@@ -106,11 +106,16 @@
   
 ## **SPRINT SCORING:**  
 At the beginning of the sprint, we set a total score of **10 points** for the team, divided as follows:  
-- **Team Dynamics Established** – 2 points  
-- **Creating a Shared Workspace & Active Participation** – 2 points  
-- **Topic Selection & Research** – 2 points  
-- **Product Naming** – 2 points  
-- **Team Logo Selection** – 2 points  
+## ✅ Sprint Scoring Table
+
+| 📝 **Task**                                   | 🔥 **Priority** | 🎯 **Points** | ✅ **Status**     |
+|-----------------------------------------------|------------------|---------------|-------------------|
+| Team Dynamics Established                     | High             | 20            | Completed ✅       |
+| Creating a Shared Workspace & Participation   | High             | 20            | Completed ✅       |
+| Topic Selection & Research                    | Medium           | 20            | Completed ✅       |
+| Product Naming                                | Medium           | 20            | Completed ✅       |
+| Team Logo Selection                           | Low              | 20            | Completed ✅       |
+| **Total**                                     |                  | **100**       | **Completed ✅**   |
 
 **Goal Achieved – Full 10 Points Earned!**  
 
