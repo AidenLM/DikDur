@@ -165,10 +165,12 @@ Our first sprint successfully achieved its interim goals, and the project starte
 <details>
   <summary><h1>Sprint 2</h1></summary>
 
-### ✅ **APP SCREENSHOTS**  
+### ✅ ** WEBSITE SCREENSHOTS**  
 Initial screens of the DikDur platform have been designed and partially implemented. Below are key interfaces:  
-- **Login & Registration Pages**  
-- **HR Dashboard** with posture analytics  
+- **Login & Registration Pages**
+- 
+- **HR Dashboard** with posture analytics
+- 
 - **Gamification Panel** for challenges and rewards  
 - **Virtual Appointment Interface** for physiotherapy sessions  
 
@@ -223,10 +225,9 @@ Final delivery: 150 Story Points Completed
 
 ---
 
-### 💬 **WHATSAPP CHAT UPDATES**  
+### 💬 **WHATSAPP CHAT **  
 Daily coordination and updates were managed on WhatsApp:  
 - Task follow-ups  
-- UI design reviews  
 - Urgent issue resolutions  
 
 <img src="Photos/WhatsappImageSprint2_1.png" width="300" height="300" alt="WhatsApp Sprint 2"/>
