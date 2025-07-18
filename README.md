@@ -240,14 +240,18 @@ Final delivery: 150 Story Points Completed
 
 
 ---
-
-### 💬 **WHATSAPP CHAT **  
+### 💬 **WHATSAPP CHAT**  
 Daily coordination and updates were managed on WhatsApp:  
 - Task follow-ups  
 - Urgent issue resolutions  
 
-<img src="Photos/WhatsappImageSprint2_1.png" width="300" height="300" alt="WhatsApp Sprint 2"/>
-<img src="Photos/WhatsappImageSprint2_2.png" width="300" height="300" alt="WhatsApp Sprint 2"/>
+Here are some screenshots from our WhatsApp communication and workflow discussions:
+
+![Workflow 1](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp.PNG)  
+![Workflow 2](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp2.PNG)  
+![Workflow 3](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp3.PNG)  
+![Workflow 4](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp4.PNG)  
+![Workflow 5](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp5.PNG)  
 
 ---
 
