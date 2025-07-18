@@ -165,9 +165,17 @@ Our first sprint successfully achieved its interim goals, and the project starte
 <details>
   <summary><h1>Sprint 2</h1></summary>
 
+### 🌐 Website **  
+
+The official website of the DikDur project is live and available at:  
+[https://dik-dur-website.vercel.app/](https://dik-dur-website.vercel.app/)
+
+Here, users can explore the app features, learn about posture analysis, and get insights on challenges directly through a clean and user-friendly interface. The website complements the mobile application by providing detailed information and a smooth browsing experience.
+
+Feel free to visit and try out the functionalities showcased in the screenshots below!
+
+
 ### ✅ ** WEBSITE SCREENSHOTS**  
-
-
 <h3>🔹 Home Screen</h3>
 <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/main.png" alt="Home Screen" width="300">
 
@@ -189,12 +197,12 @@ Our first sprint successfully achieved its interim goals, and the project starte
 ---
 
 ### 🗂 **PROJECT MANAGEMENT**  
-All Sprint 2 tasks were assigned, tracked, and reviewed via ClickUp.  
+
+All Sprint 2 tasks were assigned, tracked, and reviewed via [ClickUp](https://app.clickup.com/90151335937/v/dc/2kyq0e01-735).  
 - Feature implementations were divided into smaller tasks  
 - Progress was monitored through the ClickUp board  
-- Milestones were set for UI/UX and development separately  
+- Color palette decisions and pair programming matches were voted directly within ClickUp discussions  
 
-<img src="Photos/projectmanagement2.png" width="700" alt="Project Management Board"/>
 
 ---
 
