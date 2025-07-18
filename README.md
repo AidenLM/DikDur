@@ -166,17 +166,25 @@ Our first sprint successfully achieved its interim goals, and the project starte
   <summary><h1>Sprint 2</h1></summary>
 
 ### ✅ ** WEBSITE SCREENSHOTS**  
-Initial screens of the DikDur platform have been designed and partially implemented. Below are key interfaces:  
-- **Login & Registration Pages**
-- 
-- **HR Dashboard** with posture analytics
-- 
-- **Gamification Panel** for challenges and rewards  
-- **Virtual Appointment Interface** for physiotherapy sessions  
 
-<img src="Photos/appscreen1.png" width="400" height="400" alt="App Screenshot"/>
-<img src="Photos/appscreen2.png" width="400" height="400" alt="App Screenshot"/>
-<img src="Photos/appscreen3.png" width="400" height="400" alt="App Screenshot"/>
+
+<h3>🔹 Home Screen</h3>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/main.png" alt="Home Screen" width="300">
+
+<h3>🔹 Register Screen</h3>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/register.png" alt="Register Screen" width="300">
+
+<h3>🔹 Activities Screen</h3>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/activities.png" alt="Activities Screen" width="300">
+
+<h3>🔹 Posture Screen</h3>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/posture.jpeg" alt="Posture Screen" width="300">
+
+<h3>🔹 Posture Analysis Screen</h3>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/posture-analysis.png" alt="Posture Analysis Screen" width="300">
+
+<h3>🔹 Challenges Screen</h3>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/challenges.png" alt="Challenges Screen" width="300">
 
 ---
 
