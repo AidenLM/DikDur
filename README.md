@@ -247,12 +247,13 @@ Daily coordination and updates were managed on WhatsApp:
 
 Here are some screenshots from our WhatsApp communication and workflow discussions:
 
-![Workflow 1](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp.PNG)  
-![Workflow 2](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp2.PNG)  
-![Workflow 3](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp3.PNG)  
-![Workflow 4](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp4.PNG)  
-![Workflow 5](https://raw.githubusercontent.com/AidenLM/DikDur/main/wp5.PNG)  
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp.PNG" width="150" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp2.PNG" width="150" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp3.PNG" width="150" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp4.PNG" width="150" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp5.PNG" width="150" />
+</p>
 ---
 
 ### 🎥 **MEETING SCREENSHOTS**  
