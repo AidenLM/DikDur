@@ -117,7 +117,7 @@ At the beginning of the sprint, we set a total score of **10 points** for the te
 | Team Logo Selection                           | Low              | 20            | Completed ✅       |
 | **Total**                                     |                  | **100**       | **Completed ✅**   |
 
-**Goal Achieved – Full 10 Points Earned!**  
+**Goal Achieved – Full 100 Points Earned!**  
 
 ## **SPRINT NOTES:**
 - Active communication was maintained throughout Sprint 1.
@@ -230,6 +230,8 @@ We maintained a burndown chart to track sprint velocity and ensure on-time deliv
 Initial backlog estimation: 150 Story Points
 
 Final delivery: 150 Story Points Completed
+
+We earned 100 points in the first sprint and 150 points in the second. With the third sprint, our goal is to reach a total of 400 points. This shows how our teamwork and communication keep improving each sprint.
 
 ## 🏃 Sprint 2 Burndown Chart 
 ![Sprint 2 Burndown Chart](https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2.png)
