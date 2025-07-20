@@ -201,10 +201,15 @@ Feel free to visit and try out the functionalities showcased in the screenshots 
 All Sprint 2 tasks were assigned, tracked, and reviewed via [ClickUp](https://app.clickup.com/90151335937/v/dc/2kyq0e01-735).  
 - Feature implementations were divided into smaller tasks  
 - Progress was monitored through the ClickUp board  
-- Color palette decisions and pair programming matches were voted directly within ClickUp discussions  
+- Color palette decisions and pair programming matches were voted directly within ClickUp discussions
+  
+#### Sprint Board  
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/board.png" width="600" alt="Task Board"/>
 
 
 ---
+
+
 
 ### 📉 **BURNDOWN CHART**  
 
