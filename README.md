@@ -211,9 +211,8 @@ All Sprint 2 tasks were assigned, tracked, and reviewed via [ClickUp](https://ap
 
 
 
-### 📉 **BURNDOWN CHART**  
 
-## 🏃 Sprint 2 Task Table
+## **🏃 Sprint 2 Task Table**
 
 | Task                                                                 | Priority       | Points | Status   |
 |----------------------------------------------------------------------|----------------|--------|----------|
@@ -263,14 +262,71 @@ Here are some screenshots from our WhatsApp communication and workflow discussio
 </p>
 ---
 
-### 🎥 **MEETING SCREENSHOTS**  
-Meetings were held regularly to review progress and assign tasks:  
-- Sprint Planning & Mid-Sprint Review  
-- UI/UX walkthroughs  
-- Code merge and functionality discussion  
+### 🖥️ Sprint 2 Meeting Screenshots
 
-<img src="Photos/TeamMeetSprint2_1.png" width="300" height="300" alt="Meeting Screenshot"/>
-<img src="Photos/TeamMeetSprint2_2.png" width="300" height="300" alt="Meeting Screenshot"/>
+Throughout Sprint 2, meetings were conducted regularly via **Microsoft Teams** and **Google Meet** to coordinate tasks, monitor progress, and discuss technical challenges.  
+Key sessions included:  
+- **Sprint Planning** and **Mid-Sprint Review**  
+- **Code Merge Discussions** and **Feature Implementation Alignment**
+
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m1.png" width="500" alt="Sprint Meeting 1"/>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m2.png" width="500" alt="Sprint Meeting 2"/>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m3.png" width="500" alt="Sprint Meeting 3"/>
+
+---
+## 🔄 Daily Scrum Summary (Sprint 2)
+
+During Sprint 2, daily stand-ups were held primarily through asynchronous updates on WhatsApp, complemented by weekly live meetings on Microsoft Teams or Google Meet.
+
+### Format:
+- What did you do yesterday?  
+- What will you do today?  
+- Any blockers?
+
+### Highlights:
+
+| Date       | Summary                                                                                     |
+|------------|---------------------------------------------------------------------------------------------|
+| July 8     | Started backend integration for posture analytics.                                         |
+| July 9     | Continued work on gamification logic; initial tests conducted.                             |
+| July 10    | Fixed bugs in posture data processing; discussed API endpoints.                           |
+| July 11    | Mid-sprint review meeting; adjusted task priorities and responsibilities.                 |
+| July 14    | Integrated feedback from sprint review; started virtual appointment module design.        |
+| July 15    | Worked on data synchronization between backend and frontend components.                   |
+| July 16    | Team members reviewed each other's code and resolved merge conflicts.                     |
+| July 17    | Addressed blockers related to deployment; coordinated final sprint tasks.                 |
+| July 18    | Finalized gamification features; prepared for sprint demo.                                |
+| July 19    | Conducted pre-demo testing; documented issues and fixes.                                  |
+| July 20    | Sprint demo and retrospective meeting; planned for next sprint.                           |
+
+### Observations:
+- Asynchronous communication helped accommodate different schedules.  
+- Some blockers were resolved through quick team chats or pair programming sessions.  
+- Team members supported each other to overcome knowledge gaps.  
+
+---
+## 🗒️ Sprint 2 Notes
+
+- 🟢 **Sprint Start Date:** July 7, 2025  
+- 🔚 **Sprint End Date:** July 20, 2025  
+- 🕒 **Sprint Duration:** 2 weeks
+
+### 📌 General Notes:
+
+- Sprint 2 focused on developing core features of the DikDur platform and preparing a working prototype.
+- The team worked on backend functionality, posture analytics integration, gamification logic, and virtual appointment setup.
+- Task tracking was managed via **GitHub Projects**, with design collaboration through **Figma**.
+- Meetings were mostly held online via **Microsoft Teams** and **Google Meet** due to vacation and internship schedules.
+- Communication was maintained asynchronously via WhatsApp to accommodate members who were traveling or working.
+- Task responsibilities were balanced based on each member’s availability and expertise.
+- Despite varying levels of knowledge and external commitments, the team successfully completed 100% of planned story points.
+
+### 🧩 Key Discussions & Decisions:
+
+- Adjustments were made to feature priorities after mid-sprint review.
+- Backend tasks were focused on enabling posture data analytics and integrating gamification challenges.
+- Virtual appointment interface development was planned for Sprint 3 to maintain focus.
+- Emphasis was placed on clear communication and collaborative code reviews.
 
 ---
 ## 🚀 Sprint 2 Review & Retrospective
