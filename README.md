@@ -212,7 +212,7 @@ All Sprint 2 tasks were assigned, tracked, and reviewed via [ClickUp](https://ap
 
 
 
-## **🏃 Sprint 2 Task Table**
+## **🏃 Sprint Scoring (Sprint 2 Task Table)**
 
 | Task                                                                 | Priority       | Points | Status   |
 |----------------------------------------------------------------------|----------------|--------|----------|
