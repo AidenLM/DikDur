@@ -371,7 +371,7 @@ Despite these achievements, Sprint 2 also presented several collaboration and ti
 | Sprint overlapped with vacations and internships | Use availability calendars before sprints and assign critical tasks accordingly |
 | Technical experience levels varied | Encourage mentoring, pair programming, and mini knowledge-sharing sessions |
 | Members changed locations often | Set fixed weekly check-ins regardless of location, with summaries for absentees |
-| Overreliance on asynchronous chats | Use shared tools (Notion, Miro) for central task tracking and decisions |
+| Overreliance on asynchronous chats | Use shared tools  for central task tracking and decisions |
 | Lack of documented decisions | Rotate a note-taker each meeting and maintain a visible sprint log |
 
 ---
