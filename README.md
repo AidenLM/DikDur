@@ -272,6 +272,7 @@ Key sessions included:
 <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m1.png" width="500" alt="Sprint Meeting 1"/>
 <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m2.png" width="500" alt="Sprint Meeting 2"/>
 <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m3.png" width="500" alt="Sprint Meeting 3"/>
+<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m4.png" width="500" alt="Sprint Meeting 4"/>
 
 ---
 ## 🔄 Daily Scrum Summary (Sprint 2)
