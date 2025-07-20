@@ -273,21 +273,59 @@ Meetings were held regularly to review progress and assign tasks:
 <img src="Photos/TeamMeetSprint2_2.png" width="300" height="300" alt="Meeting Screenshot"/>
 
 ---
+## 🚀 Sprint 2 Review & Retrospective
 
-### 🔄 **SPRINT REVIEW & RETROSPECTIVE**  
-**Achievements:**  
-- Core screens were implemented and tested  
-- First click-through prototype was presented  
-- Improved sprint planning based on learnings from Sprint 1  
+### ✅ Sprint 2 Review
 
-**Challenges:**  
-- Synchronizing design and development timelines  
-- Minor delays due to overlapping school exams  
+During Sprint 2, significant progress was made in the development of the DikDur platform. We focused on building out the core user-facing components and ensuring that the user flow became more consistent and intuitive. Key accomplishments include:
 
-**Next Steps:**  
-- Backend connection for user and HR modules  
-- Full implementation of gamification logic  
-- Preparing for user testing in Sprint 3  
+- The initial version of the **DikDur web platform** was successfully deployed: [dik-dur-website.vercel.app](https://dik-dur-website.vercel.app/)
+- Several critical user interfaces were designed and partially implemented:
+  - **Login and Registration pages**
+  - **HR Dashboard** with posture analytics
+  - **Gamification Panel** for challenges and rewards
+  - **Virtual Appointment Interface** for physiotherapy sessions
+- Navigation between screens was established.
+- Design assets (e.g., Figma files) were shared to align development with visual design.
+
+Despite these achievements, Sprint 2 also presented several collaboration and timing challenges.
+
+---
+
+### ⚠️ Challenges Faced During Sprint 2
+
+- 🏖️ **Vacation & Mobility Issues**  
+  The sprint took place during the summer break, which meant that many team members were traveling or temporarily unavailable. This affected meeting consistency and timely task completion.
+
+- 💼 **Internship Commitments**  
+  Several team members were also doing internships. Their differing schedules made synchronous collaboration difficult and reduced working hours across the team.
+
+- 📚 **Knowledge Gaps**  
+  There were noticeable differences in experience and familiarity with tools among team members. Some had advanced technical knowledge while others were still learning, which caused task imbalances and delays.
+
+- 💬 **Asynchronous Communication**  
+  Most of our communication happened on WhatsApp and other asynchronous platforms due to differing schedules. While this kept the team connected, it made quick decision-making and technical alignment harder.
+
+---
+
+### 🔁 Retrospective – Lessons Learned & Recommendations
+
+| Observation | Recommendation |
+|-------------|----------------|
+| Sprint overlapped with vacations and internships | Use availability calendars before sprints and assign critical tasks accordingly |
+| Technical experience levels varied | Encourage mentoring, pair programming, and mini knowledge-sharing sessions |
+| Members changed locations often | Set fixed weekly check-ins regardless of location, with summaries for absentees |
+| Overreliance on asynchronous chats | Use shared tools (Notion, Miro) for central task tracking and decisions |
+| Lack of documented decisions | Rotate a note-taker each meeting and maintain a visible sprint log |
+
+---
+
+### 📌 Looking Ahead – Sprint 3 Goals
+
+- Begin backend integration: user authentication, HR module, and user data handling
+- Complete gamification system implementation
+- Prepare and execute early user testing for core flows
+- Improve internal processes through better scheduling and knowledge alignment
 
 </details>
 
