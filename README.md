@@ -386,3 +386,43 @@ Despite these achievements, Sprint 2 also presented several collaboration and ti
 
 </details>
 
+
+
+<details>
+  <summary><h1>Sprint 3</h1></summary>
+
+### 🌐 Website **  
+
+The official website of the DikDur project is live and available at:  
+[https://dik-dur-website.vercel.app/](https://dik-dur-website.vercel.app/)
+
+Here, users can explore the app features, learn about posture analysis, and get insights on challenges directly through a clean and user-friendly interface. The website complements the mobile application by providing detailed information and a smooth browsing experience.
+
+Feel free to visit and try out the functionalities showcased in the screenshots below!
+
+
+### ✅ ** WEBSITE SCREENSHOTS**  
+---
+### 🗂 **PROJECT MANAGEMENT**  
+
+
+#### Sprint Board  
+---
+
+## **🏃 Sprint Scoring (Sprint 3 Task Table)**
+
+## 🏃 Sprint 2 Burndown Chart 
+---
+### 💬 **WHATSAPP CHAT**  
+
+---
+### 🖥️ Sprint 3 Meeting Screenshots
+
+---
+## 🔄 Daily Scrum Summary (Sprint 3)
+
+---
+## 🗒️ Sprint 3 Notes
+
+---
+## 🚀 Sprint 3 Review & Retrospective
