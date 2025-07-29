@@ -411,7 +411,24 @@ Feel free to visit and try out the functionalities showcased in the screenshots 
 
 ## **🏃 Sprint Scoring (Sprint 3 Task Table)**
 
-## 🏃 Sprint 2 Burndown Chart 
+| Task                                                                                         | Priority   | Points | Status   |
+|----------------------------------------------------------------------------------------------|------------|--------|----------|
+| Remove the Challenges feature                                                                | 🔴 High    | 10     | ✅ Done   |
+| Remove the Therapists section                                                                | 🔴 High    | 10     | ✅ Done   |
+| Remove Notifications                                                                         | 🔴 High    | 10     | ✅ Done   |
+| Fix token reading issue on Dashboard (use cache)                                             | 🔴 High    | 20     | ✅ Done   |
+| Fix token processing delay after login                                                       | 🔴 High    | 20     | ✅ Done   |
+| Add Posture Cam 10-second analysis delay logic                                               | 🔴 High    | 20     | ✅ Done   |
+| After 10 seconds, show average of all cached posture values                                  | 🔴 High    | 15     | ✅ Done   |
+| Improve the Ergonomy screen                                                                  | 🟠 Medium  | 15     | ✅ Done   |
+| Redesign the Rewards section                                                                 | 🟠 Medium  | 15     | ✅ Done   |
+| Show message: "Analyzing..." during Posture Cam scan                                         | 🟠 Medium  | 5      | ✅ Done   |
+| Update the Activities section                                                                | 🟢 Low     | 10     | ✅ Done   |
+| Redesign the Logo                                                                            | 🟢 Low     | 5      | ✅ Done   |
+
+
+
+## 🏃 Sprint 3 Burndown Chart 
 ---
 ### 💬 **WHATSAPP CHAT**  
 
