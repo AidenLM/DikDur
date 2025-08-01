@@ -390,26 +390,33 @@ Despite these achievements, Sprint 2 also presented several collaboration and ti
 
 <details>
   <summary><h1>Sprint 3</h1></summary>
+  
+  
 
-### 🌐 Website **  
+---
+
+## 🌐 Website
 
 The official website of the DikDur project is live and available at:  
-[https://dik-dur-website.vercel.app/](https://dik-dur-website.vercel.app/)
+🔗 [https://dik-dur-website.vercel.app/](https://dik-dur-website.vercel.app/)
 
-Here, users can explore the app features, learn about posture analysis, and get insights on challenges directly through a clean and user-friendly interface. The website complements the mobile application by providing detailed information and a smooth browsing experience.
+Here, users can explore app features, learn about posture analysis, and get insights into workplace wellness through a clean and user-friendly interface.
 
-Feel free to visit and try out the functionalities showcased in the screenshots below!
-
-
-### ✅ ** WEBSITE SCREENSHOTS**  
----
-### 🗂 **PROJECT MANAGEMENT**  
-
-
-#### Sprint Board  
 ---
 
-## **🏃 Sprint Scoring (Sprint 3 Task Table)**
+## ✅ Website Screenshots
+
+*Screenshots will be added below to showcase the main features and UI.*
+
+---
+
+## 🗂 Project Management
+
+Project and sprint tasks were managed using [ClickUp](https://app.clickup.com), supported by GitHub Projects and asynchronous communication on WhatsApp.
+
+---
+
+## 🏃 Sprint Scoring – Sprint 3 Task Table
 
 | Task                                                                                         | Priority   | Points | Status   |
 |----------------------------------------------------------------------------------------------|------------|--------|----------|
@@ -426,20 +433,93 @@ Feel free to visit and try out the functionalities showcased in the screenshots 
 | Update the Activities section                                                                | 🟢 Low     | 10     | ✅ Done   |
 | Redesign the Logo                                                                            | 🟢 Low     | 5      | ✅ Done   |
 
-
-
-## 🏃 Sprint 3 Burndown Chart 
----
-### 💬 **WHATSAPP CHAT**  
+🎯 **Total Story Points (Sprint 3):** 165  
+✅ **Completion:** 100%
 
 ---
-### 🖥️ Sprint 3 Meeting Screenshots
+
+## 📉 Sprint 3 Burndown Chart
+
+![Sprint 3 Burndown Chart](./sprint3_burndown_chart.png)
 
 ---
-## 🔄 Daily Scrum Summary (Sprint 3)
+
+## 💬 Communication Summary
+
+- Daily Scrum updates via **WhatsApp**
+- Weekly meetings over **Google Meet**
+- Task updates centralized in **ClickUp**
+- Asynchronous communication allowed flexibility during internships and summer holidays
 
 ---
-## 🗒️ Sprint 3 Notes
+
+## 🗓️ Daily Scrum Log
+
+| Date       | Summary                                                                                     |
+|------------|---------------------------------------------------------------------------------------------|
+| July 20    | Sprint planning and backlog review                                                          |
+| July 21    | Identified token bug and initiated fix                                                      |
+| July 22    | Removed unused sections (Challenges, Notifications)                                        |
+| July 23    | Worked on Posture Cam logic                                                                 |
+| July 24    | Integrated posture data caching                                                             |
+| July 25    | Redesign discussions: Ergonomy and Rewards                                                  |
+| July 26    | Implemented averaging logic and "Analyzing..." feedback                                     |
+| July 27    | Tested authentication caching                                                               |
+| July 28    | Updated Activities section and integrated new logo                                          |
+| July 29    | Internal code review and cleanup                                                            |
+| July 30    | Final UI polish and MVP confirmation                                                        |
+| July 31    | Demo preparations and final QA                                                              |
+| August 1   | README updated, review checklist completed                                                  |
+| August 2   | Last adjustments and final testing                                                          |
+| August 3   | Sprint closed, retrospective notes written                                                  |
 
 ---
+
 ## 🚀 Sprint 3 Review & Retrospective
+
+### 🔍 What We Achieved
+- 🔧 Major UI/UX improvements: Ergonomy, Rewards, Activities, and Logo
+- 🧠 Implemented posture cam scanning with delay and result averaging
+- 🚫 Cleaned up features: Removed Challenges, Notifications, and Therapists
+- ⚙️ Resolved backend token caching issues for faster authentication
+
+### 💡 Lessons Learned
+
+| Observation                              | Action Taken                                                 |
+|------------------------------------------|--------------------------------------------------------------|
+| Token management was unclear             | Created backend logic documentation                          |
+| Mid-sprint motivation drop               | Weekly demo checkpoints introduced                           |
+| Task load was uneven                     | Used ClickUp assignments to balance workload                 |
+| Fragmented communication                 | Centralized updates in GitHub and ClickUp                    |
+
+---
+
+## 🏁 Final Project Summary
+
+With the successful completion of Sprint 3, the DikDur project reached its initial MVP goals. Over three sprints, the team progressed from ideation to deployment, delivering a functional posture analysis web platform.
+
+### 🌟 Highlights from All Sprints
+- 🎯 **Total Story Points Completed:** 415
+- ✅ **MVP Delivered:** Posture Cam, HR Dashboard, Gamification, Analytics
+- 🌐 **Live Demo:** [dik-dur-website.vercel.app](https://dik-dur-website.vercel.app)
+- 🤝 Strong collaboration across ClickUp, GitHub, Figma, and Google Meet
+
+### 🛠️ Tech Stack
+- Frontend: React.js  
+- Styling: Tailwind CSS  
+- Backend: Node.js *(planned)*  
+- Tools: ClickUp, GitHub Projects, WhatsApp, Google Meet
+
+### 📌 What's Next
+- Mobile version and UI responsiveness
+- Integration with physiotherapy systems
+- Machine learning-based analytics
+- Backend deployment for full-stack support
+
+---
+
+Thanks for following our journey in building **DikDur** – an AI-powered platform for healthier posture and happier workspaces! 🚀
+
+</details>
+
+
