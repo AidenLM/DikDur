@@ -1,4 +1,4 @@
-<img src="Photos/DİKDURLOGO.jpg" width="700" height="700" alt="Team Name Logo"/> 
+<img src="Photos/dikduroriginal.jpg" width="700" height="700" alt="Team Name Logo"/> 
 
 # **TEAM NAME:**  
 - **BOOTCAMP101**  
@@ -177,22 +177,22 @@ Feel free to visit and try out the functionalities showcased in the screenshots 
 
 ### ✅ ** WEBSITE SCREENSHOTS**  
 <h3>🔹 Home Screen</h3>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/main.png" alt="Home Screen" width="300">
+<img src="Photos/main.png" alt="Home Screen" width="300">
 
 <h3>🔹 Register Screen</h3>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/register.png" alt="Register Screen" width="300">
+<img src="Photos/register.png" alt="Register Screen" width="300">
 
 <h3>🔹 Activities Screen</h3>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/activities.png" alt="Activities Screen" width="300">
+<img src="Photos/activities.png" alt="Activities Screen" width="300">
 
 <h3>🔹 Posture Screen</h3>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/posture.jpeg" alt="Posture Screen" width="300">
+<img src="Photos/posture.jpeg" alt="Posture Screen" width="300">
 
 <h3>🔹 Posture Analysis Screen</h3>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/posture-analysis.png" alt="Posture Analysis Screen" width="300">
+<img src="Photos/posture-analysis.png" alt="Posture Analysis Screen" width="300">
 
 <h3>🔹 Challenges Screen</h3>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/challenges.png" alt="Challenges Screen" width="300">
+<img src="Photos/challenges.png" alt="Challenges Screen" width="300">
 
 ---
 
@@ -204,7 +204,7 @@ All Sprint 2 tasks were assigned, tracked, and reviewed via [ClickUp](https://ap
 - Color palette decisions and pair programming matches were voted directly within ClickUp discussions
   
 #### Sprint Board  
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/board.png" width="600" alt="Task Board"/>
+<img src="Photos/board.png" width="600" alt="Task Board"/>
 
 
 ---
@@ -238,7 +238,7 @@ Final delivery: 150 Story Points Completed
 We earned 100 points in the first sprint and 150 points in the second. With the third sprint, our goal is to reach a total of 400 points. This shows how our teamwork and communication keep improving each sprint.
 
 ## 🏃 Sprint 2 Burndown Chart 
-![Sprint 2 Burndown Chart](https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2.png)
+![Sprint 2 Burndown Chart](Photos/sprint2.png)
 
 
 
@@ -254,11 +254,11 @@ Daily coordination and updates were managed on WhatsApp:
 Here are some screenshots from our WhatsApp communication and workflow discussions:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp.PNG" width="150" style="margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp2.PNG" width="150" style="margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp3.PNG" width="150" style="margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp4.PNG" width="150" style="margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/wp5.PNG" width="150" />
+  <img src="Photos/wp.PNG" width="150" style="margin-right:10px;" />
+  <img src="Photos/wp2.PNG" width="150" style="margin-right:10px;" />
+  <img src="Photos/wp3.PNG" width="150" style="margin-right:10px;" />
+  <img src="Photos/wp4.PNG" width="150" style="margin-right:10px;" />
+  <img src="Photos/wp5.PNG" width="150" />
 </p>
 ---
 
@@ -269,10 +269,10 @@ Key sessions included:
 - **Sprint Planning** and **Mid-Sprint Review**  
 - **Code Merge Discussions** and **Feature Implementation Alignment**
 
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m1.png" width="500" alt="Sprint Meeting 1"/>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m2.png" width="500" alt="Sprint Meeting 2"/>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m3.png" width="500" alt="Sprint Meeting 3"/>
-<img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/sprint2-m4.png" width="500" alt="Sprint Meeting 4"/>
+<img src="Photos/sprint2-m1.png" width="500" alt="Sprint Meeting 1"/>
+<img src="Photos/sprint2-m2.png" width="500" alt="Sprint Meeting 2"/>
+<img src="Photos/sprint2-m3.png" width="500" alt="Sprint Meeting 3"/>
+<img src="Photos/sprint2-m4.png" width="500" alt="Sprint Meeting 4"/>
 
 ---
 ## 🔄 Daily Scrum Summary (Sprint 2)
