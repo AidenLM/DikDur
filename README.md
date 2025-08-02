@@ -1,7 +1,7 @@
 <img src="Photos/dikduroriginal.jpg" width="700" height="700" alt="Team Name Logo"/> 
 
-# **TEAM NAME:**  
-- **BOOTCAMP101**  
+# **TEAM NAME:BOOTCAMP101**  
+
 
 # **TEAM MEMBERS:**
 | Name | Title | Social |
@@ -12,9 +12,6 @@
 | <a href="https://github.com/yasinkrcm" style="text-decoration:none; color:blue;">Yasin Karaçam </a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/yasin-karacamm/) |
 | <a href="https://github.com/silacetinkaya" style="text-decoration:none; color:blue;">Sıla Çetinkaya </a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/s%C4%B1la-%C3%A7etinkaya-5648a1225/) |
 
-
-<H2>PRODUCT BACKLOGS:</H2>
-<P><A HREF="https://app.clickup.com/90151335937/v/s/90155373300">DİKDUR CLİCK UP</A></P>
 
 <details>
   <summary><h2>ABOUT PROJECT</h2></summary>
@@ -91,15 +88,13 @@
 </details>
 
 
----
 
 <details>
-  <summary><h2>Team Managment(Click Up Photo)</h2></summary>
+  <summary><h2>Team Managment</h2></summary>
   <img src="Photos/dutys.png" width="700" height="700" alt="Team Name Logo"/> 
 </details>
   
 
----
 
 <details>
   <summary><h1>Sprint 1</h1></summary>
