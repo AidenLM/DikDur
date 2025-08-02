@@ -412,7 +412,11 @@ Here, users can explore app features, learn about posture analysis, and get insi
 
 ## 🗂 Project Management
 
-Project and sprint tasks were managed using [ClickUp](https://app.clickup.com), supported by GitHub Projects and asynchronous communication on WhatsApp.
+You can view the Sprint 3 board on ClickUp here:  
+🔗 [Sprint 3 ClickUp Board](https://app.clickup.com/90151335937/v/l/2kyq0e01-315)
+
+![Sprint 3 ClickUp Board](https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/clickup-sprint3.png)
+
 
 ---
 
