@@ -1,4 +1,4 @@
-<img src="Logo.png" width="700" height="700" alt="Team Name Logo"/> 
+<img src="Photos/DİKDURLOGO.jpg" width="700" height="700" alt="Team Name Logo"/> 
 
 # **TEAM NAME:**  
 - **BOOTCAMP101**  
