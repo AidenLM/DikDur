@@ -552,4 +552,7 @@ Thanks for following our journey in building **DikDur** – an AI-powered platfo
 
 </details>
 
-
+<details>
+  <summary><h1>Business Model Canvas</h1></summary>
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/Business%20Model%20Canvas.png" alt="Business Model Canvas" style="max-width: 100%; height: auto;">
+</details>
