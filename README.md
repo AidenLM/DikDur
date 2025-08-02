@@ -456,6 +456,19 @@ You can view the Sprint 3 board on ClickUp here:
 - Task updates centralized in **ClickUp**
 - Asynchronous communication allowed flexibility during internships and summer holidays
 
+
+  ## Sprint 3: WhatsApp Chat Screenshots
+
+  Our team got along really well, and the camaraderie was truly wonderful. We did our daily tracking through WhatsApp, which helped us stay connected and organized. Now, we're feeling a bit sad that the project is coming to an end because we enjoyed working together so much.
+
+  <p float="left">
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/wp6.PNG" width="200" />
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/wp7.PNG" width="200" /> 
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/wp8.PNG" width="200" />
+  <img src="https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/wp9.PNG" width="200" />
+</p>
+
+
 ---
 
 ## 🗓️ Daily Scrum Log
@@ -477,6 +490,18 @@ You can view the Sprint 3 board on ClickUp here:
 | August 1   | README updated, review checklist completed                                                  |
 | August 2   | Last adjustments and final testing                                                          |
 | August 3   | Sprint closed, retrospective notes written                                                  |
+
+
+
+## Sprint 3 Daily Scrum Summary
+
+During Sprint 3, our team focused on planning, bug fixing, feature development, and polishing the project for the final release. We started with sprint planning and backlog review, quickly identifying and fixing a critical token bug. Unnecessary sections like Challenges and Notifications were removed to streamline the app.
+
+Key features developed included the Posture Cam logic, posture data caching, and averaging logic with user feedback improvements like the "Analyzing..." status. We also redesigned parts of the UI, including Ergonomy and Rewards, and integrated a new logo.
+
+Throughout the sprint, we conducted internal code reviews, cleaned up the codebase, tested authentication caching, and finalized the user interface. The team worked collaboratively to prepare demos, update documentation, and complete the final QA.
+
+By the end of the sprint, all planned goals were met, and we successfully closed the sprint with detailed retrospective notes.
 
 ---
 
