@@ -440,7 +440,8 @@ Project and sprint tasks were managed using [ClickUp](https://app.clickup.com), 
 
 ## 📉 Sprint 3 Burndown Chart
 
-![Sprint 3 Burndown Chart](./sprint3_burndown_chart.png)
+
+![Sprint 3 Burndown Chart](https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/sprint3_burndown_chart.png)
 
 ---
 
