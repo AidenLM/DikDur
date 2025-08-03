@@ -389,19 +389,24 @@ Despite these achievements, Sprint 2 also presented several collaboration and ti
   
 
 ---
-
 ## 🌐 Website
 
-The official website of the DikDur project is live and available at:  
+The official website of the **DikDur** project is now live:  
 🔗 [https://dik-dur-website.vercel.app/](https://dik-dur-website.vercel.app/)
 
-Here, users can explore app features, learn about posture analysis, and get insights into workplace wellness through a clean and user-friendly interface.
+On this platform, users can discover the app's key features, learn about posture analysis techniques, and explore insights on workplace wellness. The website offers a clean, intuitive interface designed for a smooth user experience.
 
 ---
 
 ## ✅ Website Screenshots
 
-*Screenshots will be added below to showcase the main features and UI.*
+Below are screenshots highlighting the main features and user interface of the website:
+
+![DikDur Website Screenshot 1](https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/web1.png)
+
+![DikDur Website Screenshot 2](https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/web2.png)
+
+![DikDur Website Screenshot 3](https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/web3.png)
 
 ---
 
