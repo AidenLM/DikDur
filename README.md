@@ -408,6 +408,8 @@ Below are screenshots highlighting the main features and user interface of the w
 
 ![DikDur Website Screenshot 3](https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/web3.png)
 
+![DikDur Website Screenshot 4](https://raw.githubusercontent.com/AidenLM/DikDur/main/Photos/web4.png)
+
 ---
 
 ## 🗂 Project Management
