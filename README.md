@@ -506,7 +506,6 @@ Throughout the sprint, we conducted internal code reviews, cleaned up the codeba
 By the end of the sprint, all planned goals were met, and we successfully closed the sprint with detailed retrospective notes.
 
 ---
-
 ## 🚀 Sprint 3 Review & Retrospective
 
 ### 🔍 What We Achieved
@@ -528,7 +527,7 @@ By the end of the sprint, all planned goals were met, and we successfully closed
 
 ## 🏁 Final Project Summary
 
-With the successful completion of Sprint 3, the DikDur project reached its initial MVP goals. Over three sprints, the team progressed from ideation to deployment, delivering a functional posture analysis web platform.
+With the successful completion of Sprint 3, the **DikDur** project reached its initial MVP goals. Over three sprints, the team progressed from ideation to deployment, delivering a functional **posture analysis web platform**.
 
 ### 🌟 Highlights from All Sprints
 - 🎯 **Total Story Points Completed:** 415
@@ -536,17 +535,52 @@ With the successful completion of Sprint 3, the DikDur project reached its initi
 - 🌐 **Live Demo:** [dik-dur-website.vercel.app](https://dik-dur-website.vercel.app)
 - 🤝 Strong collaboration across ClickUp, GitHub, Figma, and Google Meet
 
-### 🛠️ Tech Stack
-- Frontend: React.js  
-- Styling: Tailwind CSS  
-- Backend: Node.js *(planned)*  
-- Tools: ClickUp, GitHub Projects, WhatsApp, Google Meet
+---
 
-### 📌 What's Next
-- Mobile version and UI responsiveness
+## 🛠️ Technology Stack
+
+### 🎨 Frontend
+- Next.js 15 + React 18 + TypeScript
+- Tailwind CSS + Radix UI (20+ custom components)
+- ONNX Runtime Web + TensorFlow.js (AI posture models)
+- Recharts (Data visualization)
+
+### ⚙️ Backend *(Planned)*
+- Next.js API Routes (Serverless Functions)
+- MongoDB + Mongoose
+- JWT + bcryptjs (Authentication & Security)
+- Google Gemini AI API (Personalized recommendations)
+
+### 🤖 AI & ML Features
+- ONNX Models (Posture analysis inference)
+- WebAssembly (Optimized real-time performance)
+- Real-time video posture processing
+- Gemini 1.5 Pro (AI-based health tips)
+
+### 🚀 Deployment & Performance
+- Vercel (Standalone Build)
+- Multi-language Support (Turkish/English)
+- Gzip Compression + WebAssembly Caching
+- Responsive Design (Mobile-first enhancements)
+
+---
+
+## 📌 What's Next?
+- Mobile version & full UI responsiveness
 - Integration with physiotherapy systems
-- Machine learning-based analytics
-- Backend deployment for full-stack support
+- Machine learning-based personalized analytics
+- Full-stack backend deployment for enhanced scalability
+
+---
+
+## 📋 Summary
+**DikDur** is a modern full-stack wellness platform focused on:
+- AI-powered posture analysis
+- Gamification and habit tracking
+- Real-time video processing
+- Multi-language support (TR/EN)
+
+The project empowers users to maintain healthy posture habits through an interactive and intelligent platform.
 
 ---
 
