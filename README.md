@@ -70,7 +70,7 @@
 </details>
 
 <details>
-  <summary><h1>TARGET AUDIENCE</h1></summary>
+  <summary><h1>Target Audience</h1></summary>
 
 1. **Corporate Companies (HR & Wellness Departments)**  
    - Medium and large-scale enterprises  
